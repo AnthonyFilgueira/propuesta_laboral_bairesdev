@@ -1,0 +1,9 @@
+{
+    "host": "propuesta-laboral-bairesdev.innodite.com",
+    "nombre": "BairesDev",
+    "codigos": {
+        "d1": "Postulación (formulario o correo)",
+        "d2": "Nota de conexión de LinkedIn"
+    },
+    "minimo": false
+}
